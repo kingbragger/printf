@@ -1,4 +1,4 @@
-i#ifndef MAIN_H
+#ifndef MAIN_H
 
 #define MAIN_H
 
@@ -210,3 +210,5 @@ long int convert_size_unsgnd(unsigned long int num, int size);
 
 
 #endif /* MAIN_H */
+
+
